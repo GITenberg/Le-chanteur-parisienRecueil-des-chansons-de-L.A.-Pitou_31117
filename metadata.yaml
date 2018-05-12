@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35012
     wikipedia: http://fr.wikipedia.org/wiki/Louis_Ange_Pitou
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31117#Le-chanteur-parisienRecueil-des-chansons-de-L.A.-Pitou
 gutenberg_bookshelf: FR Chansons
 gutenberg_issued: '2010-01-29'
 gutenberg_type: Text
