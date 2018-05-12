@@ -1,0 +1,30 @@
+_repo: Le-chanteur-parisienRecueil-des-chansons-de-L.A.-Pitou_31117
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pitou, Louis Ange
+    birthdate: 1767
+    deathdate: 1846
+    gutenberg_agent_id: '35012'
+    url: http://www.gutenberg.org/2009/agents/35012
+    wikipedia: http://fr.wikipedia.org/wiki/Louis_Ange_Pitou
+description: ''
+gutenberg_bookshelf: FR Chansons
+gutenberg_issued: '2010-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31117'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Songs, French'
+title: 'Le chanteur parisien
+
+  Recueil des chansons de L.A. Pitou'
+url: http://www.gutenberg.org/ebooks/31117
